@@ -1,0 +1,17 @@
+  Tytuł:
+-Snake
+  Autor:
+-Dawid Stefanek
+  Przegląd gry: Koncepcja Gry: Kluczowe cechy:
+-Jeden gracz
+-Celem gry jest zjedzenie jak największej ilości jabłek i uzyskać jak największy wynik
+  Mechanika:
+- Kierowanie weżem poprzez klawisze W,A,S,D
+  Poziomy:
+-Jeden duży poziom
+  Interfejs:
+-Gra przeglądarkowa
+  Techniki:
+-HTML
+-JS
+-CSS  
